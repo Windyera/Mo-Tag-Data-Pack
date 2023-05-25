@@ -1,4 +1,4 @@
-# Mo-Tag-Data-Pack
+# Mo-Tag Data Pack
 
 `minecraft:join` Triggers when a player joins the game.
 
