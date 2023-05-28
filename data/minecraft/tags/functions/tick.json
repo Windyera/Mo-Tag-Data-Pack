@@ -1,6 +1,5 @@
 {
 	"values": [
-		"mo_tag:online.check",
-		"mo_tag:alive.check"
+		"#mo_tag:tick"
 	]
 }
