@@ -6,4 +6,4 @@
 
 `#minecraft:normal_join` Triggers when a player joins the game at the multiple time.
 
-`#minecraft:respawn` Triggers when a player respawns(Not confused with death).
+`#minecraft:respawn` Triggers when a player respawns( Not confused with death ).
