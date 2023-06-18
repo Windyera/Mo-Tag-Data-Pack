@@ -1,5 +1,6 @@
 {
 	"values": [
-		"#mo_tag:tick"
+		"minecraft:alive-check",
+		"minecraft:online-check"
 	]
 }

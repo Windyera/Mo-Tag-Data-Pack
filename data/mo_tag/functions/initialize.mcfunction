@@ -1,3 +1,3 @@
-execute run scoreboard objectives add mo_tag.online dummy
+execute run scoreboard objectives add minecraft.online dummy
 
-execute run scoreboard objectives add mo_tag.alive dummy
+execute run scoreboard objectives add minecraft.alive dummy
